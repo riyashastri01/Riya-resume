@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<div class="header">
+     <h1> Shastri Riya</h1>
+     <p>Email id:riyashastri0107@gmail.com</p>
+     <p>Mobail Number:8347169979</p>
+     <p>Address:Devni Poll Zandachowk Khambhat,DIS:Anand</p>
+</div>
+
+<div class="Section">
+     <div class="Section.title">
+     <h2>Summary</h2>
+ </div>
+<div class="section.content">
+    <p>software developer</p>
+</div>
+<div class="Section">
+     <div class="Section.title">
+     <h2>Education</h2>
+   </div>
+   <divclass="section.content">
+   <h3>ssc</h3>
+   <p>S.D Kapdiya High School Khambhat</p>
+   <ul>
+       <li>10 Pass</li>
+       <li>Year:2019</li>
+       <li>Percentage:52</li>
+   </ul>
+   <h3>Deploma engineering</h3>
+   <p>Ipcowala Institute of Engineering & Tecnology</p>
+</ul>
+  </div>
+<div class="Section">
+
+</body>
+</html>
